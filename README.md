@@ -1,4 +1,4 @@
-###                                           H E L L O U xD
+###                                           H E L O U xD
 
 <!--
 **RivalDo6/RivalDo6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Texto alternativo](119457.jpg)
+![Texto alternativo](1194577.jpg)
