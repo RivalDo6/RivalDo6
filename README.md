@@ -1,4 +1,4 @@
-### Hi there 👋
+### HELLOU 👋
 
 <!--
 **RivalDo6/RivalDo6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rivald0_69&theme=dark&hide_border=FALSO&border_radius=4.6&locale=es&mode=weekly)](https://git.io/streak-stats)
+![Texto alternativo]([https://ejemplo.com/ruta/a/mi-imagen.png](https://wall.alphacoders.com/big.php?i=119457)https://wall.alphacoders.com/big.php?i=119457)
