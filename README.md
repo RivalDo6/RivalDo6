@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Texto alternativo]([https://ejemplo.com/ruta/a/mi-imagen.png](https://wall.alphacoders.com/big.php?i=119457)https://wall.alphacoders.com/big.php?i=119457)
+![Texto alternativo](https://wall.alphacoders.com/big.php?i=119457)
