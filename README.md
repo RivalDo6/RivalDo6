@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rivald0_69&theme=dark&hide_border=FALSO&border_radius=4.6&locale=es&mode=weekly)](https://git.io/streak-stats)
+[GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rivald0_69&theme=dark&hide_border=FALSO&border_radius=4.6&locale=es&mode=weekly)](https://git.io/streak-stats)
