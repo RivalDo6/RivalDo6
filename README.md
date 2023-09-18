@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 ![Texto alternativo](1194577.jpg)
 
-:heart: Me encanta programar en JavaScript :heart:
 
